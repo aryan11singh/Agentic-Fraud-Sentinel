@@ -1,0 +1,18 @@
+pandas
+numpy 
+scikit-learn
+xgboost== 2.1.4
+lightgbm
+imbalanced-learn 
+optuna 
+shap
+langgraph 
+langchain-anthropic
+fastapi 
+uvicorn 
+streamlit 
+jupyter 
+matplotlib 
+seaborn
+plotly
+

@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Raw data — too large for GitHub (each file is 500MB+)
+data/raw/
+
+# Processed data — reproducible from raw, no need to push
+notebooks/data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables (API keys etc)
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

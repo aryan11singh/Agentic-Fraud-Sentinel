@@ -1,0 +1,32 @@
+[
+  {
+    "model_name": "xgboost_tuned",
+    "timestamp": "2026-08-13T12:56:20.742904",
+    "threshold": 0.5,
+    "auc_roc": 0.907,
+    "auc_pr": 0.5758,
+    "precision": 0.8335,
+    "recall": 0.3942,
+    "f1": 0.5352,
+    "false_positive_rate": 0.0028,
+    "true_positives": 1602,
+    "false_positives": 320,
+    "true_negatives": 113724,
+    "false_negatives": 2462
+  },
+  {
+    "model_name": "xgboost_tuned_optimal_threshold",
+    "timestamp": "2026-08-13T12:56:21.489262",
+    "threshold": 0.2161,
+    "auc_roc": 0.907,
+    "auc_pr": 0.5758,
+    "precision": 0.6988,
+    "recall": 0.484,
+    "f1": 0.5719,
+    "false_positive_rate": 0.0074,
+    "true_positives": 1967,
+    "false_positives": 848,
+    "true_negatives": 113196,
+    "false_negatives": 2097
+  }
+]
